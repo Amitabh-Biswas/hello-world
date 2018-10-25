@@ -1,5 +1,6 @@
 # hello-world
-First repository
+First repository.
+
 Hi Humans,
 
 Amitabh here. Blah, blah, blah.
